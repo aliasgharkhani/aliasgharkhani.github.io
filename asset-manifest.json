@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a82bdd0c.chunk.css",
+    "main.js": "/static/js/main.4b8b18a4.chunk.js",
+    "main.js.map": "/static/js/main.4b8b18a4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.90460cab.js",
+    "runtime-main.js.map": "/static/js/runtime-main.90460cab.js.map",
+    "static/js/2.899cdb5e.chunk.js": "/static/js/2.899cdb5e.chunk.js",
+    "static/js/2.899cdb5e.chunk.js.map": "/static/js/2.899cdb5e.chunk.js.map",
+    "static/js/3.021ccaac.chunk.js": "/static/js/3.021ccaac.chunk.js",
+    "static/js/3.021ccaac.chunk.js.map": "/static/js/3.021ccaac.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a82bdd0c.chunk.css.map": "/static/css/main.a82bdd0c.chunk.css.map",
+    "static/js/2.899cdb5e.chunk.js.LICENSE.txt": "/static/js/2.899cdb5e.chunk.js.LICENSE.txt",
+    "static/media/HomePage.css": "/static/media/aliasghar_1-removebg.b12fad65.png",
+    "static/media/aliasghar_3.589e0d8a.jpg": "/static/media/aliasghar_3.589e0d8a.jpg",
+    "static/media/sampad.10cbac11.svg": "/static/media/sampad.10cbac11.svg",
+    "static/media/sfu.171f37e7.svg": "/static/media/sfu.171f37e7.svg",
+    "static/media/sharif.37e45768.svg": "/static/media/sharif.37e45768.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90460cab.js",
+    "static/js/2.899cdb5e.chunk.js",
+    "static/css/main.a82bdd0c.chunk.css",
+    "static/js/main.4b8b18a4.chunk.js"
+  ]
+}
