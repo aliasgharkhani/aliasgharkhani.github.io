@@ -1438,7 +1438,7 @@ box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
 padding: 20px;
 display: grid;
 margin: 30px;
-grid-template-columns: 300px 1fr;
+grid-template-columns: 335px 1fr;
 grid-gap: 10px;
 color: var(--title);
 }
